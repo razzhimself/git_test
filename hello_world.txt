@@ -1,0 +1,5 @@
+I edit this file , after I have added it to the staging area.
+I want to check if the changes I make now will be committed. 
+
+After Math:
+Alright then, it worked as i expected. 
